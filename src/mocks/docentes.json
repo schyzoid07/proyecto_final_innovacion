@@ -1,0 +1,28 @@
+{
+  "docentes": [
+    {
+      "cedula": 1578965,
+      "nombre": "OSCAR ALEXIS",
+      "apellido": "SALAZAR BERMUDEZ",
+      "correo": "oscar2350@hotmail.com"
+    },
+    {
+      "cedula": 21421423,
+      "nombre": "JESUS MANUEL",
+      "apellido": "RONDON FLORES",
+      "correo": "jesusrondon@uneg.edu.ve"
+    },
+    {
+      "cedula": 18657821,
+      "nombre": "CLINIA MERSICA",
+      "apellido": "CORDERO SOFIA",
+      "correo": "corderoclinia@gmail.com"
+    },
+    {
+      "cedula": 20014235,
+      "nombre": "NELSON JUANEZ",
+      "apellido": "INOJOSA",
+      "correo": "ninojosa@uneg.edu.ve"
+    }
+  ]
+}
