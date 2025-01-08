@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "../global.css";
-import { useProfessor } from "../../hooks/useProfessor";
+import useProfessor from "../../hooks/useProfessor";
 
 const Docentes = () => {
   const [searchTerm, setSearchTerm] = useState("");

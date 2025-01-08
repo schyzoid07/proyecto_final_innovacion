@@ -1,0 +1,24 @@
+{
+  "secciones": [
+    {
+      "id": 1,
+      "nombre": "PROGRAMACIÓN I",
+      "seccion": "1"
+    },
+    {
+      "id": 2,
+      "nombre": "PROGRAMACIÓN I",
+      "seccion": "2"
+    },
+    {
+      "id": 3,
+      "nombre": "INNOVACIÓN Y DESARROLLO",
+      "seccion": "1"
+    },
+    {
+      "id": 4,
+      "nombre": "ING. SOFTWARE I",
+      "seccion": "1"
+    }
+  ]
+}
