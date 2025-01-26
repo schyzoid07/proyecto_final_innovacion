@@ -1,0 +1,33 @@
+.docente-container {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  border-left: 3px solid var(--blue);
+  background-color: var(--white);
+
+  width: auto;
+  cursor: pointer;
+  transition: ease-in;
+  transition-duration: 100ms;
+  border-radius: 5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.docente-container:hover {
+  transform: scale(1.025);
+}
+
+.nombre-docente {
+  color: var(--blue);
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+p {
+  color: #5a5c69;
+  font-size: 1rem;
+}
+
+.correo-docente:hover {
+  text-decoration: underline;
+}
